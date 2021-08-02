@@ -1,6 +1,7 @@
 <?php
 $php_text = $_POST["php_text"];
 ?>
+<!doctype html>
 <html>
     <head>
         <meta charset="utf-8" />
